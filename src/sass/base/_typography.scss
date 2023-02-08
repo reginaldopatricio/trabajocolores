@@ -1,3 +1,20 @@
 /* ********* */
 /* @TYPOGRAPHY */
 /* ********* */
+$fontTitulo : 1.5rem;
+$fontPolaroid: 1.2rem;
+
+$fontFamily: sans-serif;
+
+// Tamaños de los textos
+body{
+    font-family: $fontFamily;
+}
+
+.titulo{
+    font-size: $fontTitulo;
+}
+
+.texto{
+    font-size: $fontPolaroid;
+}
